@@ -1,6 +1,6 @@
-# 🌍 Emissions Dashboard in Databricks SQL
+# 🌍 Emissions Dashboard in Databricks
 
-This repository contains my Databricks SQL project for analyzing greenhouse gas emissions across the continental United States. The project focuses on transforming emissions data into analysis-ready datasets with SQL and building an interactive dashboard to explore spatial patterns, per-person emissions, total emissions by state, and county-level emissions concentrations.
+This repository contains my Databricks project for analyzing greenhouse gas emissions across the continental United States. The project focuses on transforming emissions data into analysis-ready datasets with SQL and building an interactive dashboard to explore spatial patterns, per-person emissions, total emissions by state, and county-level emissions concentrations.
 
 ---
 
